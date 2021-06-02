@@ -2,7 +2,7 @@
  * Author:Panda
  * Date:2021-06-03
  * Version:1.0
- * 
+ * Url:https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js
  * 浓情618 与“粽”不同
  * 活动地址：https://lzdz-isv.isvjcloud.com/dingzhi/union/longzhou/activity?activityId=901053001
  * 活动时间：2021-06-01至2021-06-18
