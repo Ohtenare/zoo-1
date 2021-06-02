@@ -6,7 +6,7 @@
  * 浓情618 与“粽”不同
  * 活动地址：https://lzdz-isv.isvjcloud.com/dingzhi/union/longzhou/activity?activityId=901053001
  * 活动时间：2021-06-01至2021-06-18
- * 
+ * 推荐cron: 15 13 1-18 6 *
  * 账号1默认助力Panda，后续账号助力账号1，如账号1无法正常获取到参数，则所有账号均助力Panda
  * 
  * 环境变量：
