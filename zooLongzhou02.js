@@ -3,7 +3,7 @@
  * Date:2021-06-16
  * Version:1.0
  * Url:https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou02.js
- * 浓情618 与“粽”不同
+ * 粽情端午
  * 活动地址：https://lzdz-isv.isvjcloud.com/dingzhi/union/longzhou/activity?activityId=901060101
  * 活动时间：2021-06-06至2021-06-18
  * 推荐cron: 15 13 6-18 6 *
